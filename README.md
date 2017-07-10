@@ -73,7 +73,7 @@ Key:
 * [Ivonna](http://ivonna.biz/)
 * ~~[NUnitAsp](http://nunitasp.sourceforge.net/)~~
 * [Selenium](http://www.seleniumhq.org/)
-* [WatiN](http://watin.org/)
+* ~~[WatiN](http://watin.org/)~~
 
 # User Interface Testing
 * [Microsoft Coded UI](https://msdn.microsoft.com/en-us/library/dd286726.aspx)
